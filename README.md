@@ -1,5 +1,6 @@
 🔍 The "Engineering Journey" So Far
-"Building AI isn't just about the model; it's about the data architecture that fuels it."
+
+"Building AI isn't just about the model, it's about the data architecture that fuels it."
 
 Mình là sinh viên năm cuối chuyên ngành IT tại Đại học Văn Lang, hiện đang tập trung vào việc kiến tạo các hệ thống AI thông minh và hạ tầng dữ liệu bền vững. Sứ mệnh của mình là thu hẹp khoảng cách giữa các thuật toán phức tạp và giá trị thực tiễn cho doanh nghiệp.
 
