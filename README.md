@@ -1,11 +1,25 @@
-🔍 The "Engineering Journey" So Far
+## 🚀 AI Engineer | Building Real-World AI Systems
 
-"Building AI isn't just about the model, it's about the data architecture that fuels it."
+> "AI is not just about models — it's about systems, data, and real-world impact."
 
-Mình là sinh viên năm cuối chuyên ngành IT tại Đại học Văn Lang, hiện đang tập trung vào việc kiến tạo các hệ thống AI thông minh và hạ tầng dữ liệu bền vững. Sứ mệnh của mình là thu hẹp khoảng cách giữa các thuật toán phức tạp và giá trị thực tiễn cho doanh nghiệp.
+I'm a final-year IT student focused on building **production-ready AI applications** using LLMs.
 
-🎯 AI Agent Architect: Chuyên thiết kế và triển khai các AI Agents đa tác nhân (Multi-agent) sử dụng LangGraph, Groq và Llama 3.3 để tự động hóa các quy trình nghiên cứu và phản hồi phức tạp.
+### 🔥 What I Do
 
-🛠 Modern Data Stack: Xây dựng các đường ống dữ liệu (Data Pipelines) hiệu quả với SQL, Docker, MinIO và Trino, đảm bảo nguồn dữ liệu sạch cho các mô hình phân tích.
+- 🤖 **LLM Applications**: RAG, AI Agents, Multi-Agent Systems  
+- ⚙️ **Backend AI Systems**: FastAPI, API design, scalable services  
+- 📊 **Data Engineering**: SQL, data pipelines, vector databases  
+- ☁️ **Deployment**: Docker, Railway, Hugging Face Spaces  
 
-🌐 Full-stack AI Deployment: Đưa các mô hình AI từ môi trường thử nghiệm ra thực tế thông qua Gradio và Hugging Face Spaces.
+### 🧩 Featured Work
+
+- 🚀 **AI Content Writer** — SaaS-style content generation API (LLMs, prompt system)  
+- 🤖 **AI Review Bot** — Automated code review using LLMs  
+- 📚 **AI Research Agent** — Multi-step reasoning agent with web search  
+- 💬 **AI Chatbot** — Multi-persona chatbot deployed on Hugging Face  
+
+### 🎯 Current Focus
+
+- Building **AI SaaS products**
+- Exploring **Multi-Agent Systems & LangGraph**
+- Scaling **RAG pipelines for real-world use cases**
