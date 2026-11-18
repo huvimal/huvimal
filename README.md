@@ -2,7 +2,6 @@
 
 > "AI is not just about models — it's about systems, data, and real-world impact."
 
-I'm a final-year IT student focused on building **production-ready AI applications** using LLMs.
 
 ### 🔥 What I Do
 
